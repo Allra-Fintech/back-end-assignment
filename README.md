@@ -46,6 +46,7 @@ Repository명은 allra-backend-assignment로 설정해주세요.
 - SpringBoot 버전은 3.x 이상을 사용해주세요.
 - Database는 MySQL 8.0 이상을 사용해주세요.
 - Database 접근에는 JPA 또는 QueryDSL을 사용해주세요.
+- **RDB 외에 필요한 경우 NoSQL, 메시지큐 등 추가적인 기술 및 도구 사용을 허용합니다.**
 - **Pull Request 단위로 개발해주세요.** 기능별로 브랜치를 생성하여 작업하고 PR을 통해 main 브랜치에 머지해주세요.
 - README.md를 반드시 작성해주세요.
 - 테스트 코드 작성을 권장합니다.
